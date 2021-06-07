@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{327:function(n){n.exports=JSON.parse('{"welcome":"hindi","contact":"संपर्क करें"}')}}]);
